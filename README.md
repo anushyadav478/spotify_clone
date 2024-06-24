@@ -23,3 +23,7 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 Acknowledgments
 This project was inspired by the original Spotify platform and its design. I'd like to thank the Spotify team for creating such an iconic and user-friendly interface.
+
+
+Note That:
+index.html and index.css are the main file and other are img of icons and other images so please install on your computer and add in visual studio code
